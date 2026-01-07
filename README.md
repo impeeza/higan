@@ -37,3 +37,4 @@ for each supported operating system:
   - [macOS](https://github.com/Screwtapello/higan/releases/download/nightly/higan-macos.zip)
   - [Ubuntu Linux](https://github.com/Screwtapello/higan/releases/download/nightly/higan-ubuntu.zip)
   - [FreeBSD](https://api.cirrus-ci.com/v1/artifact/github/higan-emu/higan/freebsd-x86_64-binaries/higan-nightly/higan-nightly.zip)
+LunchActionTrigger
